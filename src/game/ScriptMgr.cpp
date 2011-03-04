@@ -56,14 +56,7 @@ ScriptMgr::~ScriptMgr()
 
 void ScriptMgr::ScriptsInit()
 {
-    outstring_log("   ____                              _____           _       _   ");
-    outstring_log("  / __ \\                            / ____|         (_)     | |  ");
-    outstring_log(" | |  | |_ __ ___  __ _  ___  _ __ | (___   ___ _ __ _ _ __ | |_ ");
-    outstring_log(" | |  | | '__/ _ \\/ _` |/ _ \\| '_ \\ \\___ \\ / __| '__| | '_ \\| __|");
-    outstring_log(" | |__| | | |  __/ (_| | (_) | | | |____) | (__| |  | | |_) | |_ ");
-    outstring_log("  \\____/|_|  \\___|\\__, |\\___/|_| |_|_____/ \\___|_|  |_| .__/ \\__|");
-    outstring_log("                   __/ |                              | |        ");
-    outstring_log("                  |___/                               |_|  ");
+    outstri_log("Shadow Script");
     outstring_log("");
 
     //Load database (must be called after SD2Config.SetSource).
@@ -247,7 +240,7 @@ void ScriptMgr::OnPVPKill(Player *killer, Player *killed)
 
 char const* ScriptMgr::ScriptsVersion()
 {
-    return "Integrated Oregon Scripts";
+    return "Integrated Shadow Scripts";
 }
 
 bool ScriptMgr::GossipHello (Player * pPlayer, Creature* pCreature)
