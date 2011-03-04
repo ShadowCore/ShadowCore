@@ -31,12 +31,12 @@ from Trinity Core, and is based on the
 code of that project.
 
 For further information on the Shadow Core project, please visit our
-project website at http://www.Shadowcore.com.
+project website at (coming soon).
 
 API documentation can be obtained by running the "make doc" command inside
 the doc directory.
 
-SQL files to create the database can be found in the sql directory. Files
+SQL files to create oregon core database can be found in the sql directory. Files
 to update your database from an older revision/version can be found in the
 sql/updates directory.
 
