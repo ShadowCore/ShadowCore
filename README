@@ -1,6 +1,6 @@
 = Shadow Core -- General information =
 
-Copyright (C) Shadow Core (no website yet sorry)
+Copyright (C) Shadow Core (http://www.gamerzdimension.com/shadowcore)
 
   Shadow Core is free software; you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by
@@ -31,7 +31,7 @@ from Trinity Core, and is based on the
 code of that project.
 
 For further information on the Shadow Core project, please visit our
-project website at (coming soon).
+project website at (http://www.gamerzdimension.com/shadowcore).
 
 API documentation can be obtained by running the "make doc" command inside
 the doc directory.
