@@ -1,8 +1,8 @@
-= Oregon Core -- General information =
+= Shadow Core -- General information =
 
-Copyright (C) Oregon Core (http://www.oregoncore.com)
+Copyright (C) Shadow Core (no website yet sorry)
 
-  Oregon Core is free software; you can redistribute it and/or modify
+  Shadow Core is free software; you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by
   the Free Software Foundation; either version 2 of the License, or
   (at your option) any later version.
@@ -16,8 +16,8 @@ Copyright (C) Oregon Core (http://www.oregoncore.com)
   along with this program; if not, write to the Free Software
   Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
 
-  In addition, as a special exception, the Oregon Core project
-  gives permission to link the code of its release of Oregon Core with
+  In addition, as a special exception, the Shadow Core project
+  gives permission to link the code of its release of Shadow Core with
   the OpenSSL project's "OpenSSL" library (or with modified versions of
   it that use the same license as the "OpenSSL" library), and distribute
   the linked executables.  You must obey the GNU General Public License
@@ -26,12 +26,12 @@ Copyright (C) Oregon Core (http://www.oregoncore.com)
   file, but you are not obligated to do so.  If you do not wish to do
   so, delete this exception statement from your version.
 
-Oregon Core is a World of Warcraft game server emulator. It is derived
+Shadow Core is a World of Warcraft game server emulator. It is derived
 from Trinity Core, and is based on the
 code of that project.
 
-For further information on the Oregon Core project, please visit our
-project website at http://www.oregoncore.com.
+For further information on the Shadow Core project, please visit our
+project website at http://www.Shadowcore.com.
 
 API documentation can be obtained by running the "make doc" command inside
 the doc directory.
